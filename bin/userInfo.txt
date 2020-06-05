@@ -1,0 +1,2 @@
+hilal,12,hilal özkan,hilal@hotmail.com,favourite color,blue
+batuhan,21,batuhan şenoğlu,batuhan@hotmail.com,favourite color,red
